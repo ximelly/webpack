@@ -1,0 +1,10 @@
+.DS_Store
+build/
+misc.xml
+.DS_Store
+bin/
+gen/
+out/
+node_modules/
+dist/
+package-lock.json
