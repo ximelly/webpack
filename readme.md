@@ -64,7 +64,7 @@ OccurenceOrder 和 UglifyJS plugins 都是内置插件，你需要做的只是�
     npm install clean-webpack-plugin --save-dev
 
 
-启动项目：
+### 启动项目：
 
 	1、`npm start` 对项目进行打包
 	2、`npm run server`启用本地的8080端服务器
